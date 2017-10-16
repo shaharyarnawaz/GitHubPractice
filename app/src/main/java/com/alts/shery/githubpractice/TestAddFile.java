@@ -5,4 +5,5 @@ package com.alts.shery.githubpractice;
  */
 
 public class TestAddFile {
+    String msg="iam going to modifies this file ";
 }
